@@ -6,7 +6,7 @@ O foco principal da análise é o documento oficial de desenvolvimento de objeti
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 A stack técnica utilizada no projeto foi estruturada para garantir eficiência no processamento de linguagem natural e na busca semântica por similaridade:
 
@@ -19,7 +19,7 @@ A stack técnica utilizada no projeto foi estruturada para garantir eficiência 
 
 ---
 
-## 📋 Arquitetura do Sistema (Fluxo RAG)
+## Arquitetura do Sistema (Fluxo RAG)
 
 O pipeline de análise de dados segue a estrutura padrão de enriquecimento de contexto para modelos de linguagem:
 
@@ -31,7 +31,7 @@ O pipeline de análise de dados segue a estrutura padrão de enriquecimento de c
 
 ---
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 Você pode rodar e experimentar este ecossistema de análise diretamente no seu navegador com apenas um clique:
 
