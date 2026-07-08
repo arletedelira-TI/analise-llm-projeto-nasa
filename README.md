@@ -49,3 +49,14 @@ pip install -qU pypdf langchain langchain-community langchain-groq langchain-hug
 ```text
 ├── analise_de_documento_com_langchain.ipynb  # Notebook Jupyter com o pipeline RAG completo
 └── document-nasa-s-moon-to-mars-strategy...pdf # Documento base da NASA (fonte de dados)
+```
+
+## 👩‍💻 Autora
+
+**Arlete de Lira**
+
+LinkedIn:(https://www.linkedin.com/in/arletedelira/)
+
+GitHub: https://github.com/arletedelira-TI
+
+Projeto desenvolvido como parte dos estudos em Inteligência Artificial, LLMs, LangChain e Python.
